@@ -3,6 +3,7 @@
 ==============================
 
 Text summarizing your project.
+The code summarizes how many hummingbirds were admitted each calendar month across all years by extracting the month from each admission date and counting the number of records each month. Resulting in a 12 row table showing monthly admission totals, which can be used to observe seasonal patterns in hummingbird admissions. Main features of the code are extrcting the month from each admission date, grouping records by month, and counting how many hummingbirds were admitted in each month. 
 
 ## Project Organization
 ------------
